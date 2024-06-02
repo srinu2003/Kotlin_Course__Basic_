@@ -1,0 +1,12 @@
+type: marketplace
+title: Kotlin Course (Basic)
+language: English
+summary: |-
+  This is an introductory Kotlin course.
+  - The course will be most beneficial for beginner-level Kotlin learners.
+  - The course covers core Kotlin features.
+  - It contains hands-on examples of Kotlin code implementation and exercises to practice new skills.
+  - The course is based on the author's personal experience in Kotlin development.
+programming_language: Kotlin
+content:
+  - lesson1
